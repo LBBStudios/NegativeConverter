@@ -1,6 +1,6 @@
-# NegativeConverter
+# NegativeConverter 📷🎞️
 
-NegativeConverter is a Python program that converts a scan of a film negative to a positive image with some adjustable sliders. It uses OpenCV and NumPy libraries to process the scanned image and apply color correction, contrast enhancement, and cropping. NegativeConverter is licensed under AGPLv3. It is currently still WIP. 
+NegativeConverter is a Python program that converts a scan of a film negative to a positive image with some adjustable sliders. It uses Tkinter and PIL to process the scanned image and apply color correction and contrast enhancement. NegativeConverter is licensed under AGPLv3. It is currently still WIP!
 
 ## Installation
 
