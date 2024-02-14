@@ -13,3 +13,5 @@ pip install -r requirements.txt
 ## Usage
 To use NegativeConverter, you need to have a scanned image of a film negative in JPEG or PNG format. You can use any cheap film scanner or camera to capture the negative, but make sure the image is well-lit and in focus.
 Simply open the program and a GUI will pop up, there you can load your image and edit it until you're happy. Then save it out to a new file!
+
+![plot](./gui.png)
