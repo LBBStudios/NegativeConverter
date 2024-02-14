@@ -4,6 +4,11 @@ NegativeConverter is a Python program that converts a scan of a film negative to
 
 ## Installation
 
+### Windows
+You can grab the latest release in .exe from the ['Releases' page](https://github.com/LBBStudios/NegativeConverter/releases) 
+
+### Linux / Mac
+
 To install NegativeConverter, you need to have Python 3 and pip installed on your system. Then, you can clone this repository or download the zip file and extract it. Next, navigate to the project folder and run the following command:
 
 ```bash
